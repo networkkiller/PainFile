@@ -96,5 +96,5 @@ $ python3 decrypt.py
 ## Attention ⚠️
 These scripts contain stuff that can get you in trouble. This is for educational purposes only. Do not abuse.
 
-## view Me patreon ☕
-[!["follow me for more"](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Patreon_logomark.svg/1200px-Patreon_logomark.svg.png)](https://www.patreon.com/everyhats)
+## view Me Youtube ☕
+[!["follow me for more"](https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png)](https://www.youtube.com/channel/UCcvI7QSyQ-6IgpSGiErszNg)
