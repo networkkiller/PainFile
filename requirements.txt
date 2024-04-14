@@ -2,7 +2,7 @@ certifi==2021.5.30
 cffi==1.14.6
 charset-normalizer==2.0.6
 cryptography==35.0.0
-idna==3.2
+idna==3.7
 pycparser==2.20
 PyQt5==5.15.4
 PyQt5-Qt5==5.15.2
